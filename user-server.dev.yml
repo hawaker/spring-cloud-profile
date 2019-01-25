@@ -1,1 +1,2 @@
-foo: false
+server:
+  port: 10030
